@@ -6,8 +6,8 @@
     <title>GAtA</title>
 </head>
 <body>
-    <header>
+    <div class='extremos'>
         <h1> GAtA | Diretoria de Tecnologia da Informação | Copyright © 2006-2025</h1>
-    </header>
+    </div>
 </body>
 </html>

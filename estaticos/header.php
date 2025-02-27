@@ -6,8 +6,8 @@
     <title>GAtA</title>
 </head>
 <body>
-    <header>
+    <div class='extremos'>
         <h1>GAtA</h1>
-    </header>
+    </div>
 </body>
 </html>
