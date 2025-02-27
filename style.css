@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+header,footer{
+    background-color: #6e0d51;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    width: 100%;
+}
+container{
+    height: 100%;
+}
+
+container{
+    width: 100vw;
+}
+
+main{
+    background-color: aliceblue;
+}
