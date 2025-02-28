@@ -5,12 +5,16 @@
     text-decoration: none;
 }
 
-.extremos{
-    background-color: #6e0d51;
-    flex: 1;
+html{
+    height: 100%;
 }
 
-main, container{
+.extremos{
+    background-color: #6e0d51;
+    flex: 2;
+}
+
+main, .container{
     display: flex;
     flex-direction: column;
 }
@@ -18,11 +22,11 @@ main, container{
 main{
     width: 100%;
 }
-container{
-    height: 100vh;
+.container{
+    height: 100%;
 }
 
-container{
+.container{
     width: 100vw;
 }
 
