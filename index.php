@@ -9,20 +9,19 @@
 </head>
 <body>
 
-<div class="container">
+<div class='container'>
 
-    <?php include 'estaticos/header.php';?>
-    
-    
-    <main>
-    
-       <h2>a</h2>
-    </main>
+     <?php include 'estaticos/header.php'?>
 
-    
+   <main>
 
-    <?php include 'estaticos/footer.php';?>
-    
+   </main>
+        
+   <?php include 'estaticos/footer.php'?>
+
+
+
+
 </div>
 
 </body>

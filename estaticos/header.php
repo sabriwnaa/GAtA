@@ -6,7 +6,7 @@
     <title>GAtA</title>
 </head>
 <body>
-    <div class='extremos'>
+    <div class='extremo'>
         <h1>GAtA</h1>
     </div>
 </body>
